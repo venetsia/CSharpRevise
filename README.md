@@ -1,17 +1,17 @@
 # CSharpRevise
-##1. Overview
+## 1. Overview
 
 This repository is done from a online training via the LiveLessons C# 6 Fundamentals 4/e Part 1, Part 2, Part 3 by Paul Deitel, published by Pearson 2017.
 
-##2. Content
+## 2. Content
 
 It is a 24 hour video for coding in C# that shows the fundamentals.
 
-##3. From where?
+## 3. From where?
 
 Lesson was accessed via O'Reilly with a student account -> https://learning.oreilly.com/ -> Videos -> C# 6 Fundamentals
 
-###.cs Files are from:
+### .cs Files are from:
 1. Lesson 4: Introduction to Classes, Objexts Methods and Strings ->
  * Test-Driving an Account Class
  * Account Class with an Instance Variable and Set and Get Methods: Account Class Declaration
